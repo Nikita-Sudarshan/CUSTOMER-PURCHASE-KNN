@@ -58,3 +58,7 @@ knn-project/
 ## Conclusion
 
 KNN performs well for this dataset and demonstrates how model performance depends on the choice of K.
+
+## Visualization
+
+![K vs Accuracy](k_vs_accuracy.png)
